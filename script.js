@@ -97,4 +97,5 @@ function playGame() {
         console.log(`It's a tie! Final Score - You: ${humanScore}, Computer: ${computerScore}`);
     }
 }
+playGame();
 
